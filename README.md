@@ -2,7 +2,7 @@
 
 > Beyond Answers. Towards Understanding.
 
-Aethera is an AI-powered interactive teaching platform that transforms Mathematics and Physics into adaptive, visual, scene-based learning experiences.
+Aethera is an AI-powered interactive teaching platform that transforms Mathematics and Physics into adaptive, visual, scene-based learning experiences
 
 ## 🚀 Vision
 
