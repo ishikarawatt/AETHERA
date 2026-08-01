@@ -13,7 +13,6 @@ Build an AI Teaching Operating System that teaches like a real tutor instead of 
 🚧 Under active development.
 
 ## 📚 Planned Tech Stack
-
 - Next.js
 - FastAPI
 - PostgreSQL
