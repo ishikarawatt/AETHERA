@@ -21,8 +21,8 @@ Build an AI Teaching Operating System that teaches like a real tutor instead of 
 - KaTeX
 - SymPy
 - Scikit-learn
-## 📂 Repository Structure
 
+## 📂 Repository Structure
 ```text
 frontend/
 backend/
