@@ -6,7 +6,7 @@ Aethera is an AI-powered interactive teaching platform that transforms Mathemati
 
 ## 🚀 Vision
 
-Build an AI Teaching Operating System that teaches like a real tutor instead of simply answering questions.
+Build an AI Teaching System that teaches like a real tutor instead of simply answering questions.
 
 ## 🎯 Current Status
 
